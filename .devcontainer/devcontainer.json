@@ -5,8 +5,7 @@
 	
 	"features": {
 		"node": {
-			"version": "lts",
-			"nodeGypDependencies": true
+			"version": "lts"
 		},
 		"desktop-lite": {
 			"password": "vscode",
