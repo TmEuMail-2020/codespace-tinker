@@ -1,4 +1,4 @@
-FROM mcr.microsoft.com/devcontainers/php:1-8.2-bullseye
+FROM mcr.microsoft.com/devcontainers/javascript-node:0-18
 
 # Install Chrome for Desktop Testing through VNC
 RUN apt-get update && export DEBIAN_FRONTEND=noninteractive \
